@@ -8,7 +8,7 @@ A comprehensive Python-based application for generating, scanning, and processin
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 BARCODE_AND_QR_SCANNER/
@@ -44,7 +44,7 @@ BARCODE_AND_QR_SCANNER/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ### Generate a QR Code
 
@@ -110,7 +110,7 @@ jupyter notebook notebooks/barcode_qr_scanner_demo.ipynb
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 To execute the unit tests and ensure the scanner functions correctly, run the following command from the root directory:
 
