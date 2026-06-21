@@ -18,9 +18,7 @@ BARCODE_AND_QR_SCANNER/
 │   └── raw/                    # Raw sample images for testing
 │       ├── download.png
 │       └── test_qr.png
-│
-├── docs/                       # Documentation files
-├── models/                     # Pre-trained models (if applicable)
+
 │
 ├── notebooks/                  # Interactive Jupyter notebooks
 │   └── barcode_qr_scanner_demo.ipynb
